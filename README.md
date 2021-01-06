@@ -1,6 +1,6 @@
 # Minimal carrier board for Compute Module 4
 
-This is based on design from [Prof. Fartsparkle´s] (https://hackaday.io/project/175832-minimal-raspberry-pi-cm-4-carrier). I made it 2 layer board and changed slot for SD card. 
+This is based on design from [Prof. Fartsparkle´s](https://hackaday.io/project/175832-minimal-raspberry-pi-cm-4-carrier). I made it 2 layer board and changed slot for SD card. 
 
 ### Revisions:
 
