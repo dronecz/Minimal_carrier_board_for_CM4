@@ -16,6 +16,8 @@ Board is tested and working. There is UART connection at that 2x7 pin header con
 
 I redesigned whole board and made it little bit bigger. Added 3.2mm mounting holes to each corner, added boot button for versions of CM4 with eMMC onboard (**untested**) and added standard 40-pin header for Raspberry Pi.
 
-I did not made this board yet and I also did not test distances between cables so please take that in mind if you decide to make this by some fab. 
+I added connectors for camera and DSI display, but later realize that they are in size which are used at Raspberry Pi Zero so if you want to use this feature, please bare that in mind. 
+
+I did not made this board yet but I did test distances between cables and rearanged them so they should not colide. 
 
 I have some rev.A boards so if there is demand, I will probably sell them in my Tindie store. 
