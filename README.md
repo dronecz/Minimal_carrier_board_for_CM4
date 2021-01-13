@@ -14,10 +14,15 @@ Board is tested and working. There is UART connection at that 2x7 pin header con
 
 - **rev.B**
 
-I redesigned whole board and made it little bit bigger. Added 3.2mm mounting holes to each corner, added boot button for versions of CM4 with eMMC onboard (**untested**) and added standard 40-pin header for Raspberry Pi.
+I redesigned whole board and made it little bit bigger. Added 3.2mm mounting holes to each corner, added boot button for versions of CM4 with eMMC onboard (**untested**), added connector for camera and added standard 40-pin header for Raspberry Pi.
 
-I added connectors for camera and DSI display, but later realize that they are in size which are used at Raspberry Pi Zero so if you want to use this feature, please bare that in mind. 
+I did not made this board yet but I did test distances between cables and rearanged them so they should not colide. Height of camera connector should be OK beneeth CM4, but this need to be tested. 
 
-I did not made this board yet but I did test distances between cables and rearanged them so they should not colide. 
 
-I have some rev.A boards so if there is demand, I will probably sell them in my Tindie store. 
+- **rev.B_alt**
+
+This is same board as rev.B, but there are 22-pin connectors which are same as those used at official IO board. 
+
+This version of the board was not yet manufactured.  
+
+I have some rev.A boards which you can buy at my Tindie store. 
