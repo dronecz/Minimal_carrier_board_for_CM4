@@ -25,4 +25,4 @@ This is same board as rev.B, but there are 22-pin connectors which are same as t
 
 This version of the board was not yet manufactured.  
 
-I have some rev.A boards which you can buy at my Tindie store. 
+I have some rev.A boards which you can buy at my [Tindie](https://www.tindie.com/products/dronecz/minimal-carrier-board-for-compute-module-4/) store. 
