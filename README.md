@@ -18,7 +18,7 @@ I redesigned whole board and made it little bit bigger. Added 3.2mm mounting hol
 
 I did not made this board yet but I did test distances between cables and rearanged them so they should not colide. Height of camera connector should be OK beneeth CM4, but this need to be tested. 
 
-![](https://github.com/dronecz/Minimal_carrier_board_for_CM4/tree/main/images/img_A.JPG)
+![](https://github.com/dronecz/Minimal_carrier_board_for_CM4/blob/main/images/img_A.png)
 
 
 - **rev.B_alt**
