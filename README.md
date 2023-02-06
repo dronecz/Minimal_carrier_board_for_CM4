@@ -37,7 +37,9 @@ Layout of the board is same with **rev.B** but I did move CM4 about 2 mm up and 
 ![](https://github.com/dronecz/Minimal_carrier_board_for_CM4/blob/main/images/img_rev_C_a.png)
 
 - **rev.D**
+
 This version of the board is working, except camera connector because I did not routed camera connections as differential pairs. I made and sold about 30 boards without any complains, so the design is validated. 
 
 - **rev.E**
+
 This is same board as rev.D, but with differential pairs fix for camera connector. **This revision was not yet manufactured so I can not garantee that the connector for camera will work.**
